@@ -1,0 +1,11 @@
+python -W ignore time-series-extraction.py ^
+--modalities text call ^
+--directions All In Out ^
+--days 14 ^
+--intervals 4 6 12 24 ^
+--drop 2 ^
+--cutoff 10 ^
+--metadatapath _input.csv ^
+--completionpath completed_input.csv ^
+--phqpath phq_input.csv ^
+--output TimeSeries
