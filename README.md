@@ -1,5 +1,38 @@
 # IEEEBHI2021
 
+Materials for papers titled 'Mobile Depression Screening with Time Series of Text Logs and Call Logs' and 'Screening for Suicidal Ideation with Text Messages'
+
+For information about depression screening from text messages, see the repositories: \n
+https://github.com/mltlachac/IEEEjBHI2020  \n https://github.com/mltlachac/IEEEBHI2019  \n
+https://github.com/mltlachac/EMBC2020  
+
+More information about our depression screening research is available at https://emutivo.wpi.edu/
+
+If you use code, data, results, or visualizations from this repository, please cite the relevant paper:
+
+M. L. Tlachac, Veronica Melican, Miranda Reisch, Elke Rundensteiner, 'Mobile Depression Screening with Time Series of Text Logs and Call Logs', in IEEE BHI, 2021
+
+```
+@INPROCEEDINGS{TlachacTimeSeries2020,
+author={Tlachac, M. L. and Melican, Veronica and Reisch, Miranda and Rundensteiner, Elke},
+title={Mobile Depression Screening with Time Series of Text Logs and Call Logs},
+booktitle={IEEE BHI},
+year={2021}
+}
+```
+
+M. L. Tlachac, Katherine Dixon-Gordon, Elke Rundensteiner,
+'Screening for Suicidal Ideation with Text Messages', in IEEE BHI, 2021
+
+```
+@INPROCEEDINGS{TlachacTimeSeries2020,
+author={Tlachac, M. L. and Dixon-Gordon, Katherine and Rundensteiner, Elke},
+title={Screening for Suicidal Ideation with Text Messages},
+booktitle={IEEE BHI},
+year={2021}
+}
+```
+
 ## How to use the time series code
 
 ### time-series-extraction.py
