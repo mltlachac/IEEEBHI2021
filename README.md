@@ -2,10 +2,10 @@
 
 Materials for papers titled 'Mobile Depression Screening with Time Series of Text Logs and Call Logs' and 'Screening for Suicidal Ideation with Text Messages'
 
-For information about depression screening from text messages, see the repositories: \n
-https://github.com/mltlachac/IEEEjBHI2020  \n https://github.com/mltlachac/IEEEBHI2019  \n
-https://github.com/mltlachac/EMBC2020  
-
+For information about depression screening from text messages, see the repositories:
+https://github.com/mltlachac/IEEEjBHI2020,
+https://github.com/mltlachac/IEEEBHI2019, and
+https://github.com/mltlachac/EMBC2020.
 More information about our depression screening research is available at https://emutivo.wpi.edu/
 
 If you use code, data, results, or visualizations from this repository, please cite the relevant paper:
