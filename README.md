@@ -1,6 +1,6 @@
 # IEEEBHI2021
 
-Materials for papers titled 'Mobile Depression Screening with Time Series of Text Logs and Call Logs' and 'Screening for Suicidal Ideation with Text Messages'
+Materials for papers titled 'Mobile Depression Screening with Time Series of Text Logs and Call Logs' (https://ieeexplore.ieee.org/abstract/document/9508582) and 'Screening for Suicidal Ideation with Text Messages' (https://ieeexplore.ieee.org/abstract/document/9508486)
 
 For information about depression screening from text messages, see the repositories:
 https://github.com/mltlachac/IEEEjBHI2020,
